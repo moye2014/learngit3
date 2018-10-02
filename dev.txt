@@ -1,2 +1,2 @@
-dev file
-test & simple
+dev file 
+test and simple
